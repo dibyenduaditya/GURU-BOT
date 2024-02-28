@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝐌𝐚𝐧𝐢𝐤𝐚-𝐁𝐨𝐭'
+global.botname = '[ !! 𝐄ʟɪsᴀ 𝐐ᴜᴇᴇɴ !! ]'
 global.premium = 'true'
-global.packname = '𝑴𝒂𝒏𝒊𝒌𝒂-𝑴𝑫' 
-global.author = '@𝐌𝐀𝐍𝐈𝐊𝐀-𝐒𝐀𝐑𝐊𝐀𝐑' 
+global.packname = '𝐌𝐑.𝐗-𝐁𝐎𝐓' 
+global.author = '@𝐀𝐃𝐈𝐓𝐘𝐀' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
@@ -65,7 +65,7 @@ global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
+global.rwait = '🍁'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
